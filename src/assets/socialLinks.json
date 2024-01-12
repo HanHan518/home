@@ -1,4 +1,11 @@
 [
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:mail@flyfire.cn.eu.org"
+  }
+]
   //{
   //  "name": "Github",
   //  "icon": "/images/icon/github.png",
@@ -17,12 +24,7 @@
   //  "tip": "有什么事吗",
   //  "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
   //},
-  {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "mail@flyfire.cn.eu.org"
-  }
+
   //{
   //  "name": "Twitter",
   //  "icon": "/images/icon/twitter.png",
@@ -35,4 +37,4 @@
   //  "tip": "你懂的 ~",
   //  "url": "https://t.me/bottom_user"
   //}
-]
+
