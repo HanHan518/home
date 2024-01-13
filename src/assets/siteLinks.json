@@ -8,30 +8,5 @@
     "icon": "Book",
     "name": "knowsex",
     "link": "https://knowsex.feiyang.cn.eu.org/"
-//  },
-//  {
-//    "icon": "CompactDisc",
-//    "name": "音乐",
-//    "link": "https://music.feiyang.cn.eu.org/"
-//  },
-//  {
-//    "icon": "Compass",
-//    "name": "起始页",
-//    "link": "https://nav.feiyang.cn.eu.org/"
-//  },
-//  {
-//    "icon": "Book",
-//    "name": "网址集",
-//    "link": "https://web.feiyang.cn.eu.org/"
-//  },
-//  {
-//    "icon": "Fire",
-//    "name": "今日热榜",
-//    "link": "https://hot.feiyang.cn.eu.org/"
-//  },
-//  {
-//    "icon": "LaptopCode",
-//    "name": "站点监测",
-//    "link": "https://status.feiyang.cn.eu.org/"
-//  }
+  }
 ]
